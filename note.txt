@@ -1,0 +1,33 @@
+psuedo class -used to define a special state of an element
+syntax:   selector:pseudo class{
+       property:value;
+}
+transform 
+transition
+
+GRID:used to display elements in rows and column,where user can fix the width of raw/column
+-grid container-display as grid
+-grid template colum/row:used to set width of raw/column
+-gap:used to set space between raw/column
+-repeat()
+-Linear-gradient-used to set combination of colors backgroud
+syntax
+-css animation:animation property,define by @keyframes
+-animate style:animate style
+-locomotive scroll-site for animation
+-webkit-for accesing scroll bar
+
+-website hosting
+    -netlify
+    -github
+     -vercel
+-------    --------------
+git  & github
+-----------------
+1.git: used to control version of a code
+2.git commands
+-------------
+     -git status:used to check the status of git in a folder
+     -git init: used to create a git repository in a folder
+     -git add . :used to track all untracked files to git
+     -git commiit -m "message":used to str
